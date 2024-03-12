@@ -1,0 +1,9 @@
+01. Lorum Ipsum dolor;{Lorum Ipsum dolor}.txt
+02. Sit amet;{Sit amet}.txt
+03. Consectetur;{Consectetur}.txt
+04. Adipiscing elit;{Adipiscing elit}.txt
+05. Sed do Eiusmod;{Sed do Eiusmod}.txt
+06. Tempor Incididunt.txt
+07. Ut Labore et Dolore;{Ut Labore et Dolore}.txt
+08 Magna Aliqua;{Magna Aliqua}.txt
+09 Sed Ague Lacus;{Sed Ague Lacus}.txt
